@@ -48,5 +48,5 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 ## Contact
 
 - Adresse : ```tom.cizeau@coda-student.school```
-- Téléphone : ```+33627564240```
+- Téléphone : ```0627564240```
 - Portfolio : (bientôt)
