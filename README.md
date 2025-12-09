@@ -47,5 +47,5 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ## Contact
 
-- [GitHub] (https://github.com/Pseudo404)
+- [GitHub](https://github.com/Pseudo404)
 - Portfolio : (en cours de développement)
