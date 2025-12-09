@@ -1,7 +1,7 @@
 # CIZEAU Tom
 
-Étudiant en 1re année de bachelor développeur full-stack.  
-Je conçois des projets, fonctionnelles et maintenables, en me concentrant sur la logique, la structure et la compréhension des bases.
+Étudiant en 1re année de Bachelor Développeur full-stack.
+Je conçois des projets fonctionnels et maintenables, en me concentrant sur la logique, la structure et la compréhension des bases.
 
 ---
 
@@ -16,11 +16,11 @@ Je conçois des projets, fonctionnelles et maintenables, en me concentrant sur l
 
 ## Projets
 
-Mes projets sont principalement des **projets personnel**, réalisés dans un objectif d’apprentissage et de mise en pratique.
+Mes projets sont principalement des **projets personnels**, réalisés dans un objectif d’apprentissage et de mise en pratique.
 
 Chaque projet me permet de travailler :
 - la logique
-- la résolution de problème
+- la résolution de problèmes
 - la structuration du code
 
 Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README.md` expliquant le contexte du projet.
@@ -30,7 +30,7 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 ## Objectifs
 
 - Consolider mes compétences en développement, notamment en **PHP et JavaScript**
-- Approfondir ma la logique et ma connaissance
+- Approfondir ma logique de développement et mes connaissances techniques
 - Travailler sur des **projets concrets**, en autonomie ou en équipe
 - Me préparer à une expérience professionnelle (stage, alternance ou projets réels)
 
@@ -47,6 +47,5 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ## Contact
 
-- Adresse : ```tom.cizeau@coda-student.school```
-- Téléphone : ```0627564240```
-- Portfolio : (bientôt)
+- Contact via GitHub
+- Portfolio : (en cours de développement)
