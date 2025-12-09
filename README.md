@@ -47,5 +47,6 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ## Contact
 
-- GitHub : https://github.com/Pseudo404
+- Adresse : ```tom.cizeau@coda-student.school```
+- Téléphone : ```+33627564240```
 - Portfolio : (bientôt)
