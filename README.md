@@ -5,7 +5,7 @@ Je conçois des projets fonctionnels et maintenables, en me concentrant sur la l
 
 ---
 
-## Technologies principales
+## 🔧 Technologies principales
 
 - **Langages** : HTML, CSS, JavaScript, PHP, Python
 - **Base de données** : MySQL
