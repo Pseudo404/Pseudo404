@@ -5,7 +5,7 @@ Je conçois des projets fonctionnels et maintenables, en me concentrant sur la l
 
 ---
 
-## 🔧 Technologies principales
+## 💻 Technologies principales
 
 - **Langages** : HTML, CSS, JavaScript, PHP, Python
 - **Base de données** : MySQL
@@ -14,7 +14,7 @@ Je conçois des projets fonctionnels et maintenables, en me concentrant sur la l
 
 ---
 
-## Projets
+## 📂 Projets
 
 Mes projets sont principalement des **projets personnels**, réalisés dans un objectif d’apprentissage et de mise en pratique.
 
@@ -27,7 +27,7 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ---
 
-## Objectifs
+## 🎯 Objectifs
 
 - Consolider mes compétences en développement, notamment en **PHP et JavaScript**
 - Approfondir ma logique de développement et mes connaissances techniques
@@ -36,7 +36,7 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ---
 
-## Méthode de travail
+## 🧠 Méthode de travail
 
 - Apprentissage par la pratique
 - Documentation et compréhension avant implémentation
@@ -45,7 +45,7 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ---
 
-## Contact
+## 📨 Contact
 
 - [GitHub](https://github.com/Pseudo404)
 - [LinkedIn](https://www.linkedin.com/in/cizeau-tom)
