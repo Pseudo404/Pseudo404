@@ -47,6 +47,6 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 
 ## Contact
 
-- [GitHub] (https://github.com/Pseudo404)
-- [LinkedIn](https://www.linkedin.com/in/cizeau-tom/]
+- [GitHub](https://github.com/Pseudo404)
+- [LinkedIn](https://www.linkedin.com/in/cizeau-tom]
 - Portfolio : (en cours de développement)
