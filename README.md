@@ -1,13 +1,13 @@
 # CIZEAU Tom
 
-Étudiant en 1er année de bachelor developpeur full-stack.  
+Étudiant en 1re année de bachelor développeur full-stack.  
 Je conçois des projets, fonctionnelles et maintenables, en me concentrant sur la logique, la structure et la compréhension des bases.
 
 ---
 
 ## Technologies principales
 
-- **Langages** : HTML, CSS, JavaScript, PHP, Python, PHP
+- **Langages** : HTML, CSS, JavaScript, PHP, Python
 - **Base de données** : MySQL
 - **Outils** : Git, GitHub, Linux, XAMPP  
 - **Notions** : Docker, scripting Shell / Batch
@@ -16,7 +16,7 @@ Je conçois des projets, fonctionnelles et maintenables, en me concentrant sur l
 
 ## Projets
 
-Mes projets sont principalement des **projets scolaire**, réalisés dans un objectif d’apprentissage et de mise en pratique.
+Mes projets sont principalement des **projets personnel**, réalisés dans un objectif d’apprentissage et de mise en pratique.
 
 Chaque projet me permet de travailler :
 - la logique
@@ -30,8 +30,8 @@ Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README
 ## Objectifs
 
 - Consolider mes compétences en développement, notamment en **PHP et JavaScript**
-- Approfondir la logique back-end et la structuration d’applications
-- Travailler sur des projets concrets, en autonomie ou en équipe
+- Approfondir ma la logique et ma connaissance
+- Travailler sur des **projets concrets**, en autonomie ou en équipe
 - Me préparer à une expérience professionnelle (stage, alternance ou projets réels)
 
 ---
