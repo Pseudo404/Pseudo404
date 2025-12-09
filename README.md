@@ -7,7 +7,7 @@ Je conçois des projets fonctionnels et maintenables, en me concentrant sur la l
 
 ## 💻 Technologies principales
 
-- **Langages** : HTML, CSS, JavaScript, PHP, Python, C
+- **Langages** : Pytho, PHP, HTML, CSS, C, JavaScript
 - **Base de données** : MySQL
 - **Outils** : Git, GitHub, Linux, XAMPP  
 - **Notions** : Docker, scripting Shell / Batch
