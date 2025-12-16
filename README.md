@@ -50,3 +50,9 @@ Les dépôts contiennent le code source ainsi qu'un `README.md` expliquant le co
 - [GitHub](https://github.com/Pseudo404)
 - [LinkedIn](https://www.linkedin.com/in/cizeau-tom)
 - Portfolio : (en cours de développement)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pseudo404&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
+</div>
