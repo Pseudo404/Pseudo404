@@ -5,7 +5,7 @@ Je conçois des projets fonctionnels, en me concentrant sur la logique et la com
 
 ---
 
-## 💻 Technologies principales
+## 💻 Technologies
 
 - **Langages** :
   <div align="left">
