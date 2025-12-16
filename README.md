@@ -1,7 +1,7 @@
 # CIZEAU Tom
 
 Étudiant en 1re année de Bachelor Développeur full-stack.
-Je conçois des projets fonctionnels et maintenables, en me concentrant sur la logique, la structure et la compréhension des bases.
+Je conçois des projets fonctionnels, en me concentrant sur la logique et la compréhension des bases.
 
 ---
 
@@ -9,38 +9,38 @@ Je conçois des projets fonctionnels et maintenables, en me concentrant sur la l
 
 - **Langages** : Pytho, PHP, HTML, CSS, C, JavaScript
 - **Base de données** : MySQL
-- **Outils** : Git, GitHub, Linux, XAMPP  
-- **Notions** : Docker, scripting Shell / Batch
+- **Outils** : Git, GitHub, Linux, XAMPP
+- **Notions** : Docker, Shell / Batch
 
 ---
 
 ## 📂 Projets
 
-Mes projets sont principalement des **projets personnels**, réalisés dans un objectif d’apprentissage et de mise en pratique.
+Mes projets sont principalement des **projets personnels**, réalisés dans l'objectif d’apprendre à travers la pratique.
 
 Chaque projet me permet de travailler :
 - la logique
 - la résolution de problèmes
 - la structuration du code
 
-Les dépôts contiennent le code source ainsi que, lorsque pertinent, un `README.md` expliquant le contexte du projet.
+Les dépôts contiennent le code source ainsi qu'un `README.md` expliquant le contexte du projet.
 
 ---
 
 ## 🎯 Objectifs
 
 - Consolider mes compétences en développement, notamment en **PHP et JavaScript**
+- Apprendre de nouvelles technologies
 - Approfondir ma logique de développement et mes connaissances techniques
-- Travailler sur des **projets concrets**, en autonomie ou en équipe
-- Me préparer à une expérience professionnelle (stage, alternance ou projets réels)
+- Travailler sur des **projets concrets**, en **équipe** ou en autonomie
+- Me préparer à une expérience professionnelle (alternance ou projets réels)
 
 ---
 
 ## 🧠 Méthode de travail
 
 - Apprentissage par la pratique
-- Documentation et compréhension avant implémentation
-- Versionnement avec Git
+- Documentation et compréhension avant de l'implémenter dans le code
 - Recherche de solutions propres et compréhensibles plutôt que complexes
 
 ---
