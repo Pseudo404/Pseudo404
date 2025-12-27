@@ -5,7 +5,7 @@ Je conçois des projets fonctionnels, en me concentrant sur la logique et la com
 
 ---
 
-## 💻 Technologies
+## 💻 Techno
 
 - **Langages** :
   <div align="left">
@@ -51,7 +51,7 @@ Je conçois des projets fonctionnels, en me concentrant sur la logique et la com
 
 ---
 
-## 📂 Projets
+## 📂 Mes Projets
 
 Mes projets sont principalement des **projets personnels**, réalisés dans l'objectif d’apprendre à travers la pratique.
 
@@ -64,7 +64,7 @@ Les dépôts contiennent le code source ainsi qu'un `README.md` expliquant le co
 
 ---
 
-## 🎯 Objectifs
+## 🎯 Mes Objectifs
 
 - Consolider mes compétences en développement, notamment en **PHP et JavaScript**
 - Apprendre de nouvelles technologies
