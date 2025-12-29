@@ -86,7 +86,7 @@ Les dépôts contiennent le code source ainsi qu'un `README.md` expliquant le co
 
 - [GitHub](https://github.com/Pseudo404)
 - [LinkedIn](https://www.linkedin.com/in/cizeau-tom)
-- Portfolio : (en cours de développement)
+- [Portfolio](https://pseudo404.github.io/portfolio/)
 
 ---
 
