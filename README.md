@@ -14,7 +14,7 @@ Mon activité récente sur GitHub peut sembler réduite, car je suis actuellemen
 
 Ces projets me permettent de travailler sur des cas concrets, proches du monde professionnel, avec une forte exigence de qualité, de structure et de responsabilité.
 
-Je publie moins de petits projets temporaires afin de me concentrer sur des livrables complets et exploitables.
+Je privilégie les projets concrets et professionnels plutôt que la multiplication de petits dépôts.
 
 ---
 
