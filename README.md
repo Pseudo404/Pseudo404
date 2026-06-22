@@ -5,6 +5,19 @@ Je conçois des projets fonctionnels, en me concentrant sur la logique et la com
 
 ---
 
+## 🚧 Activité actuelle sur GitHub
+
+Mon activité récente sur GitHub peut sembler réduite, car je suis actuellement concentré sur deux projets majeurs en développement :
+
+- 🏢 Un projet de site web pour une mairie (projet de fin d'année), incluant la conception, le développement et l'intégration complète
+- 💼 Un projet de développement en freelance, avec des contraintes réelles et des besoins clients
+
+Ces projets me permettent de travailler sur des cas concrets, proches du monde professionnel, avec une forte exigence de qualité, de structure et de responsabilité.
+
+Je publie moins de petits projets temporaires afin de me concentrer sur des livrables complets et exploitables.
+
+---
+
 ## 💻 Techno
 
 - **Langages** :
